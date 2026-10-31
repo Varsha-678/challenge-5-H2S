@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "utsavai-challenge5",
+    "site": "utsav-ai-ca588",
     "public": "dist",
     "ignore": [
       "firebase.json",
